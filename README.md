@@ -5,8 +5,9 @@ A production-ready full-stack web application developed as a comprehensive assig
 
 ## 🚀 Deployment Links
 
-- **Frontend Application**: [Link to Vercel/Netlify Deployment](https://civix-client.vercel.app)
-- **Backend API**: [Link to Render/Heroku Deployment](https://civix-server.onrender.com)
+- **Frontend Application**: [https://civix-solutions.vercel.app/](https://civix-solutions.vercel.app/)
+- **Backend API**: [https://civix-solutions-backend.onrender.com/](https://civix-solutions-backend.onrender.com/)
+- **Admin Panel**: [https://civix-solutions.vercel.app/admin](https://civix-solutions.vercel.app/admin)
 
 ---
 
