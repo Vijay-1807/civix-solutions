@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Abstract blue and cyan geometric background",
+      "imageUrl": "https://images.unsplash.com/photo-1532456745301-b2c645d8b80d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3Njk1OTY4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    },
+    {
+      "id": "project-1",
+      "description": "A modern building with a glass facade.",
+      "imageUrl": "https://images.unsplash.com/photo-1531591022136-eb8b0da1e6d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzY5NjIxNzUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "project-2",
+      "description": "A winding road through a forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2FkJTIwZm9yZXN0fGVufDB8fHx8MTc2OTY5MTcyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "road forest"
+    },
+    {
+      "id": "project-3",
+      "description": "A suspension bridge at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1609271424514-ff5d66c4ff3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicmlkZ2UlMjBzdW5zZXR8ZW58MHx8fHwxNzY5NjYxOTIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bridge sunset"
+    },
+    {
+      "id": "project-4",
+      "description": "A high-speed train in motion.",
+      "imageUrl": "https://images.unsplash.com/photo-1643963441668-eeaad81af04e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFpbiUyMHNwZWVkfGVufDB8fHx8MTc2OTY5MTcyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "train speed"
+    },
+    {
+      "id": "client-1",
+      "description": "Portrait of a smiling woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2OTYzMjI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "client-2",
+      "description": "Portrait of a man in a suit.",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBzdWl0fGVufDB8fHx8MTc2OTYzNDUyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man suit"
+    },
+    {
+      "id": "client-3",
+      "description": "Portrait of a person with glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1634794251656-9f286d822b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBnbGFzc2VzfGVufDB8fHx8MTc2OTU4NzQ4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person glasses"
+    }
+  ]
+}
